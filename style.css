@@ -1,0 +1,121 @@
+.container .navbar-brand{
+    font-family: viga;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.nav-item:hover{
+    border-bottom: 3px solid rgb(6, 255, 222);
+    margin-top: -1px;
+}
+
+.nav-item{
+    margin-left: 50px;
+    font-family: viga;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.container img{
+    width: 40%;
+}
+
+.container .awal{
+    font-family: viga;
+    font-size: 40px;
+    margin-left: 49%;
+    margin-top: -30%;
+    text-shadow: 1px 0px rgb(24, 240, 240);
+}   
+
+.container span{
+    color: #acacac;
+}
+
+ a.tombol{
+    display: block;
+    border-radius: 15px;
+    width: 100px;
+    margin-left: 50%;
+    margin-top: 5%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+    outline: none;
+	border: none;
+	background-image: linear-gradient(to right, #00ffbff1, #09daff, #0d45ad);
+    background-size: 200%;
+    text-transform: uppercase;
+    transition: 0.7s;
+}
+
+a.tombol:hover{
+	background-position: right;
+}
+
+.container .about .about1{
+    font-family: viga;
+    font-size: 40px;
+    margin-left: 49%;
+    margin-top: -30%;
+    margin-top: 20%;
+    font-weight: 200;
+    text-transform: uppercase;
+}
+
+.card{
+    margin-top: 24%;
+}
+
+.card img{
+    width: 60%;
+    margin-left: 20%;
+}
+
+.card .kecil{
+    width: 30%;
+    margin-left: 35%;
+}
+
+.portfolio .por{
+    font-family: viga;
+    font-size: 40px;
+    margin-left: 42%;
+    margin-top: 20%;
+    font-weight: 200;
+    text-transform: uppercase;
+}
+
+.portfolio .por1{
+    width: 50%;
+    margin-top: 5%;
+}
+
+.portfolio .por2{
+    margin-left: 57%;
+    font-family: viga;
+    font-size: 15px;
+    margin-top: -34%;
+}
+
+.portfolio .por3{
+    border-radius: 50%;
+    width: 8%;
+    margin-left: 74%;
+    margin-top: 2.4%;
+}
+
+.portfolio .por4{
+    font-size: 15px;
+    font-family: viga;
+    text-transform: uppercase;
+    margin-left: 75.4%;
+    margin-top: 1.3%;
+}
+
+.portfolio .por5{
+    font-size: 12px;
+    font-family: viga;
+    margin-left: 75.7%;
+    color: #acacac;
+    margin-top: -1%;
+}
